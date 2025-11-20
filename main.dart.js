@@ -52847,7 +52847,7 @@ return new A.d5(B.jH,1,1,new A.dj(B.O9,A.tm(A.c5(A.c([A.cE(A.c([B.aMz,B.dr,A.an(
 A.PU.prototype={
 ae(){return new A.aaK()}}
 A.aaK.prototype={
-G(a){var s=null,r=A.hK(s,A.qU(A.bs(16),A.Ya("assets/icons/Qr code.png",s,B.dB,360,360),B.bO),B.J,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aWd(a),s,s,s,s,s,s),q=this.d,p=q?1:0
+G(a){var s=null,r=A.hK(s,A.qU(A.bs(16),A.Ya("assets/icons/QR code.png",s,B.dB,360,360),B.bO),B.J,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aWd(a),s,s,s,s,s,s),q=this.d,p=q?1:0
 return A.hQ(A.cE(A.c([r,B.dr,A.ahs(A.kn(new A.aaL(new A.aWe(),s),!q,s),B.ab,B.S,p)],t.p),B.V,B.iM,B.w,0,s,s),B.b4,s,new A.aWf(this),new A.aWg(this),s)}}
 A.aWf.prototype={
 $1(a){var s=this.a
@@ -52873,7 +52873,7 @@ B.Me.aaC(s,"https://shceo.dev","_blank")},
 $S:0}
 A.b0I.prototype={
 $3(a,b,c){var s=null
-return A.fW(A.il(B.S,!0,s,A.qU(A.bs(16),A.Ya("assets/icons/Qr code.png",s,B.dB,420,420),B.bO),B.n,B.D,0,s,s,s,s,s,B.cU),s,s)},
+return A.fW(A.il(B.S,!0,s,A.qU(A.bs(16),A.Ya("assets/icons/QR code.png",s,B.dB,420,420),B.bO),B.n,B.D,0,s,s,s,s,s,B.cU),s,s)},
 $C:"$3",
 $R:3,
 $S:879}
